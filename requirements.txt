@@ -1,6 +1,3 @@
 streamlit
-sqlite3
 pandas
-twilio.rest
 twilio
-Client
